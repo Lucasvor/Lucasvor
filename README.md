@@ -2,7 +2,7 @@
 Bem vindo a minha página do Github! <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="30px">, Eu me chamo Lucas, sou de São Paulo/Brasil e normalmente sempre estou programando algo em C# <img src="https://d3aqoihi2n8ty8.cloudfront.net/actions/showlove/dark/animated/100/4.gif" width="30px"> ou em alguma outra linguagem como python, Java, Javascript, Ruby ou Dart (Flutter). Sempre estou desenvolvendo algo para facilitar minha vida ou trabalho <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/2298_jjRgfwAgzbgGj4xHG7Gr9HORkc6oPzZn.gif" width="30px">.
 
 # Interesses
-- Costumo sempre está aprendendo algo como gerenciamento de memoria, métodos mais rapidos de programar ou deixar o código mais rapido, gosto também de me aventurar em conceitos de machine learning, computação visual e hacking (Leitura e Escrita na memória em jogos).  
+- Costumo sempre estar aprendendo algo como gerenciamento de memoria, métodos mais rapidos de programar ou deixar o código mais rapido, gosto também de me aventurar em conceitos de machine learning, computação visual e hacking (Leitura e Escrita na memória em jogos).  
 - Gosto bastante de desenvolver aplicativos mobiles ou programas Back-End.
 
 # Tecnologias e Ferramentas que eu já usei
